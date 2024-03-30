@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nafargi" target="blank"><img src="https://img.shields.io/twitter/follow/nafargi?logo=twitter&style=for-the-badge" alt="nafargi" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **web development and graphics design**
 
 - 🌱 I’m currently learning **Computer Information System**
 
