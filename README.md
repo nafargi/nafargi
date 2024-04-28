@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Computer Information System**
-
-- 👨‍💻 All of my projects are available at [https://hamajispixel.netlify.app/](https://hamajispixel.netlify.app/)
-
-- 💬 Ask me about **react, veu and angular**
+- 🌱 I’m currently learning **Next.js and Three.js**
 
 - 📫 How to reach me **nafargidamena@gmial.com**
 
