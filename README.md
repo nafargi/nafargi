@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Next.js **
+- 🌱 I’m currently learning **Next.js and AI **
 
 - 📫 How to reach me **nafargidamena@gmial.com**
 
