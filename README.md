@@ -19,7 +19,7 @@
 
 📝 I'm also passionate about sharing knowledge and experiences, so expect to find tutorials, articles, and insights on my journey as a developer and creator.
 
-🔗 Let's connect and collaborate on exciting projects! Reach out to me via nafargidamenaa@gmail.com.
+🔗 Let's connect and collaborate on exciting projects! Reach out to me via nafargidamena@gmail.com.
 
 Happy coding! 🚀
 
