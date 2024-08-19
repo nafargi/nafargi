@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
-🚀 Full Stack Developer | 🎨 Graphics Designer | 🎵 Musician | 📝 Content Creator | 🖌️ UI/UX Designer
+🚀 Frontend Developer | 🎨 Graphics Designer | 🎵 Musician | 📝 Content Creator | 🖌️ UI/UX Designer
 
 👨‍💻 Passionate about crafting elegant solutions to complex problems and bringing creative ideas to life through technology.
 
