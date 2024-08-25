@@ -5,18 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
-🚀 Frontend Developer | 🎨 Graphics Designer | 🖌️ UI/UX Designer
-
+🚀 ALX Frontend Developer | 🎨 Graphics Designer | 🖌️ UI/UX Designer
 👨‍💻 Passionate about crafting elegant solutions to complex problems and bringing creative ideas to life through technology.
-
 💼 Currently, I'm diving deep into web development, mastering both front-end and back-end technologies to build robust and scalable applications.
-
 🎨 As a graphics designer, I love experimenting with colors, typography, and layouts to create visually stunning designs that captivate and inspire.
-
 🖌️ With a keen eye for user experience, I specialize in creating intuitive and user-friendly interfaces that enhance the overall digital experience.
-
 🎵 When I'm not coding, you'll find me lost in the world of music, composing melodies, and exploring new sounds.
-
 📝 I'm also passionate about sharing knowledge and experiences, so expect to find tutorials, articles, and insights on my journey as a developer and creator.
 
 🔗 Let's connect and collaborate on exciting projects! Reach out to me via nafargidamena@gmail.com.
@@ -52,13 +46,6 @@ Happy coding! 🚀
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/jestjsio-icon.svg" alt="Jestjsio" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafargi&layout=compact&theme=transparent" alt=nafargi />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nafargi&show_icons=true&locale=en&theme=transparent" alt="nafargi" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nafargi&theme=gruvbox-duo" alt="nafargi" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
