@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
 🚀 ALX Frontend Developer | 🎨 Graphics Designer | 🖌️ UI/UX Designer
+
 👨‍💻 Passionate about crafting elegant solutions to complex problems and bringing creative ideas to life through technology.
 💼 Currently, I'm diving deep into web development, mastering both front-end and back-end technologies to build robust and scalable applications.
 🎨 As a graphics designer, I love experimenting with colors, typography, and layouts to create visually stunning designs that captivate and inspire.
@@ -56,8 +57,7 @@ Happy coding! 🚀
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafargi&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafargi&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nafargi&theme=react"/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
