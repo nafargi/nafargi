@@ -8,7 +8,7 @@
 🚀 ALX Frontend Developer | 🎨 Graphics Designer | 🖌️ UI/UX Designer
 
 👨‍💻 Passionate about crafting elegant solutions to complex problems and bringing creative ideas to life through technology.
-💼 Currently, I'm diving deep into web development, mastering both front-end and back-end technologies to build robust and scalable applications.
+💼 Currently, I'm diving deep into web development, specializing front-end technologies to build robust and scalable applications.
 🎨 As a graphics designer, I love experimenting with colors, typography, and layouts to create visually stunning designs that captivate and inspire.
 🖌️ With a keen eye for user experience, I specialize in creating intuitive and user-friendly interfaces that enhance the overall digital experience.
 🎵 When I'm not coding, you'll find me lost in the world of music, composing melodies, and exploring new sounds.
