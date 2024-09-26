@@ -14,8 +14,6 @@ I'm also passionate about sharing knowledge and experiences, so expect to find t
 
 🔗 Let's connect and collaborate on exciting projects! Reach out to me via nafargidamena@gmail.com.
 
-Happy coding! 🚀
-
 ## 🌐 Socials:
 
 </div><h3 align="left">Connect with me:</h3>
