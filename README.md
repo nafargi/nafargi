@@ -19,9 +19,9 @@ I'm also passionate about sharing knowledge and experiences, so expect to find t
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nafargi" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="nafargi" height="30" width="40" /></a><a href="https://linkedin.com/in/nafargidamena" target="blank"> 
- <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="kklkl" height="30" width="40" /></a><a href="https://www.behance.net/nafargi" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="nafargi" height="30" width="40" /></a><a href="https://codeforces.com/profile/nafargi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="nafargi" height="30" width="40" /></a></p>
+ <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="nafargi" height="30" width="40" /></a><a href="https://linkedin.com/in/nafargidamena" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="kklkl" height="30" width="40" /></a><a href="https://www.behance.net/nafargi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/behance.svg" alt="nafargi" height="30" width="40" /></a><a href="https://codeforces.com/profile/nafargi" target="blank"><a href="https://www.leetcode.com/nafargidamena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafargidamena" height="30" width="40" /></a><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="nafargi" height="30" width="40" /></a></p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
