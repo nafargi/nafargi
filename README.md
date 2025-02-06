@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
- ALX Frontend Developer | Graphics Designer |  UI/UX Designer
+ Web-Developer | Graphics Designer |  UI/UX Designer
 
 Passionate about crafting elegant solutions to complex problems and bringing creative ideas to life through technology. Currently, I'm diving deep into web development, specializing front-end technologies to build robust and scalable applications. As a graphics designer, I love experimenting with colors, typography, and layouts to create visually stunning designs that captivate and inspire.
  With a keen eye for user experience, I specialize in creating intuitive and user-friendly interfaces that enhance the overall digital experience.
