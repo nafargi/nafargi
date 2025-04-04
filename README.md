@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
- Web-Developer | Graphics Designer |  UI/UX Designer
+ WebML | Graphics Designer |  UI/UX Designer
 
 Passionate about crafting elegant solutions to complex problems and pushing the boundaries of web engineering. I specialize in Web Engineering and explore browser-based machine learning models to build intelligent, scalable applications.
 
