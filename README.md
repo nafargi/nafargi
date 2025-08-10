@@ -7,7 +7,7 @@
 
 i’m a frontend-leaning full stack developer using laravel on the backend and always exploring new js libraries to make building beautiful, fast frontends easier.
 
-i’ve spent 6+ years in graphics and ui design so every project i touch gets pixel-level attention.  
+i’ve spent 7 years in graphics and ui design so every project i touch gets pixel-level attention.  
 recently exploring browser-based ml (webml) and smarter ui patterns that go beyond just buttons and divs.
 
 🧰 daily tools: react / next.js / tailwind / js / laravel  
