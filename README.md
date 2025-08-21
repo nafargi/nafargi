@@ -11,7 +11,7 @@ i’ve spent 7 years in graphics and ui design so every project i touch gets pix
 recently exploring browser-based ml (webml) and smarter ui patterns that go beyond just buttons and divs.
 
 🧰 daily tools: react / next.js / tailwind / js / laravel  
-🎨 design stack: figma / photoshop  
+🎨 design stack: figma / photoshop / Illustrator 
 📫 hit me up: nafargidamena@gmail.com
 
 </div><h3 align="left">Connect with me:</h3>
