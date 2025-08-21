@@ -12,6 +12,7 @@ recently exploring browser-based ml (webml) and smarter ui patterns that go beyo
 
 🧰 daily tools: react / next.js / tailwind / js / laravel  
 🎨 design stack: figma / photoshop / Illustrator 
+
 📫 hit me up: nafargidamena@gmail.com
 
 </div><h3 align="left">Connect with me:</h3>
