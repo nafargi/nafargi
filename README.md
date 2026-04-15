@@ -5,13 +5,11 @@
 
 ## full stack dev × ui/ux designer × visual builder
 
-i’m a frontend-leaning full stack developer using laravel on the backend and always exploring new js libraries to make building beautiful, fast frontends easier.
+I build digital products that are fast, scalable, and designed to feel premium from the first interaction. My focus is on turning ideas into clear, high-performing experiences that not only work well, but look and feel intentional at every level.
 
-i’ve spent 7 years in graphics and ui design so every project i touch gets pixel-level attention.  
-recently exploring browser-based ml (webml) and smarter ui patterns that go beyond just buttons and divs.
+With 7+ years in design, I bring a strong sense of structure, detail, and visual clarity into every project — ensuring consistency, usability, and a polished final result.
 
-🧰 daily tools: react / next.js / tailwind / js / laravel  
-🎨 design stack: figma / photoshop / Illustrator 
+I’m particularly interested in pushing interfaces beyond the usual — exploring smarter, more adaptive experiences that improve how people interact with digital products.
 
 📫 hit me up: nafargidamena@gmail.com
 
