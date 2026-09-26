@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
-## full stack dev × ui/ux designer × visual builder
+## Senior Frontend × ui/ux designer × visual builder
 
 I build digital products that are fast, scalable, and designed to feel premium from the first interaction. My focus is on turning ideas into clear, high-performing experiences that not only work well, but look and feel intentional at every level.
 
