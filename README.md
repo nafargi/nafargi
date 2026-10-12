@@ -14,11 +14,15 @@ I'm particularly interested in AI-powered applications, intelligent workflows, a
 I care about understanding the problem behind a feature, making sound technical decisions, and building experiences where engineering quality and usability reinforce each other.
 
 🔭 Currently working on: Web applications and enterprise software workflows.
+
 🧠 Exploring: AI-powered products, agent-based workflows, and practical applications of AI.
+
 🛠️ Working with: React, Next.js, TypeScript, JavaScript, PHP, and Laravel.
+
 🎨 Additional strength: Product design, UI/UX, and design systems.
+
 🎓 Education: Computer Information Science, Addis Ababa University.
-🌍 Based in: Addis Ababa, Ethiopia.
+
 
 📫 Email: nafargidamena@gmail.com
 
