@@ -3,16 +3,51 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafargi-dg&label=Profile%20views&color=0e75b6&style=flat" alt="nafargi-dg" /> </p>
 
-## Senior Frontend × ui/ux designer × visual builder
+## Full-Stack Developer · Product Engineer · UI/UX Designer
 
-I build digital products that are fast, scalable, and designed to feel premium from the first interaction. My focus is on turning ideas into clear, high-performing experiences that not only work well, but look and feel intentional at every level.
+I build digital products by combining software engineering, product thinking, and thoughtful design.
 
-With 7+ years in design, I bring a strong sense of structure, detail, and visual clarity into every project — ensuring consistency, usability, and a polished final result.
+My background spans Computer Information Science, full-stack web development, and 7+ years of design experience. I work across frontend interfaces, application workflows, and backend functionality, with a focus on building software that is maintainable, intuitive, and useful in the real world.
 
-I’m particularly interested in pushing interfaces beyond the usual — exploring smarter, more adaptive experiences that improve how people interact with digital products.
+I'm particularly interested in AI-powered applications, intelligent workflows, and AI agents — systems that go beyond displaying information to help people accomplish meaningful work.
 
-📫 hit me up: nafargidamena@gmail.com
+I care about understanding the problem behind a feature, making sound technical decisions, and building experiences where engineering quality and usability reinforce each other.
 
+🔭 Currently working on: Web applications and enterprise software workflows.
+
+🧠 Exploring: AI-powered products, agent-based workflows, and practical applications of AI.
+
+🛠️ Working with: React, Next.js, TypeScript, JavaScript, PHP, and Laravel.
+
+🎨 Additional strength: Product design, UI/UX, and design systems.
+
+🎓 Education: Computer Information Science, Addis Ababa University.
+
+🌍 Based in: Addis Ababa, Ethiopia.
+
+📫 Email: nafargidamena@gmail.com
+
+Technical Skills
+
+Frontend Development
+
+React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap
+
+Backend Development
+
+PHP · Laravel · REST API integration
+
+Development Workflow
+
+Git · GitHub · Branching · Pull Requests · Debugging · Component-Based Development
+
+Product & Design
+
+UI/UX Design · Responsive Interfaces · Design Systems · Prototyping · Product Thinking
+
+AI & Emerging Technology
+
+AI-assisted development · Exploring AI-powered applications and agent-based workflows
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nafargi" target="blank">
