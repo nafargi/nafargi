@@ -14,40 +14,31 @@ I'm particularly interested in AI-powered applications, intelligent workflows, a
 I care about understanding the problem behind a feature, making sound technical decisions, and building experiences where engineering quality and usability reinforce each other.
 
 🔭 Currently working on: Web applications and enterprise software workflows.
-
 🧠 Exploring: AI-powered products, agent-based workflows, and practical applications of AI.
-
 🛠️ Working with: React, Next.js, TypeScript, JavaScript, PHP, and Laravel.
-
 🎨 Additional strength: Product design, UI/UX, and design systems.
-
 🎓 Education: Computer Information Science, Addis Ababa University.
-
 🌍 Based in: Addis Ababa, Ethiopia.
 
 📫 Email: nafargidamena@gmail.com
 
-Technical Skills
+### Technical Skills
 
-Frontend Development
-
+## Frontend Development
 React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap
 
-Backend Development
-
+## Backend Development
 PHP · Laravel · REST API integration
 
-Development Workflow
-
+## Development Workflow
 Git · GitHub · Branching · Pull Requests · Debugging · Component-Based Development
 
-Product & Design
-
+## Product & Design
 UI/UX Design · Responsive Interfaces · Design Systems · Prototyping · Product Thinking
 
-AI & Emerging Technology
-
+## AI & Emerging Technology
 AI-assisted development · Exploring AI-powered applications and agent-based workflows
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nafargi" target="blank">
